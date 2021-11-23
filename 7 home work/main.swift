@@ -6,6 +6,7 @@
 //
 
 import Foundation
+
 //пузырьковая сортировка
 func sorting (){
 for i in 0..<numbers.count {
